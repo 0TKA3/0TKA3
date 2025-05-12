@@ -7,3 +7,4 @@
   <li><a href="https://0tka3.github.io/shopping/">E-Shop of clothes (fiction)</a></li>
   <li><a href="https://0tka3.github.io/Stopwatch/">Multiple Stopwatches</a></li>
 </ul>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
